@@ -1,0 +1,23 @@
+
+body {
+	background: pink;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	color: rgba(0,200,100, 0.8);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: purple solid px;
+}
+
+h4 {
+	color: purple;
+	background-color: rgb(255,100,80);
+}
+
+li {
+	color: green;
+}

@@ -1,0 +1,16 @@
+ul {
+	border: solid 1px blue;
+}
+
+li {
+	list-style: none;
+	color: orange;
+}
+
+#important {
+	color: red;
+}
+
+.finished {
+	text-decoration: line-through;
+}
